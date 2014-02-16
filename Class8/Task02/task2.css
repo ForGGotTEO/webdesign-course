@@ -1,0 +1,13 @@
+img {
+	width:150px;
+	height:150px;
+}
+ul li img:hover {
+	width:300px;
+	height:300px;
+}
+ul li {
+	float:center;
+	display: block;
+	list-style-type:none;
+}
