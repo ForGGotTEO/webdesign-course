@@ -1,0 +1,20 @@
+* {
+margin:0;
+padding:0;
+}
+.Sidebar {
+width:30%;
+float: left;
+text-align: center;
+background: yellow;
+}
+.Content {
+width:70%;
+float: right;
+text-align: center;
+background: green;
+}
+.Header,.Footer {
+text-align: center;
+background: blue;
+}
