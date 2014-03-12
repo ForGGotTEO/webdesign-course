@@ -1,0 +1,9 @@
+* {padding: 2px; margin: 2px; }
+
+.container {width: 500px;}
+
+.account *, .personal * {width: 80%;}
+.account{background-color: #ffffff;}
+.personal{background-color: #ffffff;}
+
+.personal select { width: 20%;}
